@@ -1,0 +1,3 @@
+
+"oi".length
+"MY".toLowerCase();
